@@ -1,0 +1,3 @@
+D:/test/PortScanning/cmake-build-debug/CMakeFiles/PortScanning.dir
+D:/test/PortScanning/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/test/PortScanning/cmake-build-debug/CMakeFiles/rebuild_cache.dir
